@@ -1,0 +1,28 @@
+{
+  "name": "mp4pack",
+  "version": "0.0.1",
+  "description": "A Node.js MP4 packer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersion/node-mp4pack.git"
+  },
+  "keywords": [
+    "mp4",
+    "h264",
+    "pack",
+    "box"
+  ],
+  "author": "emersion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersion/node-mp4pack/issues"
+  },
+  "homepage": "https://github.com/emersion/node-mp4pack#readme",
+  "dependencies": {
+    "int24": "0.0.1"
+  }
+}
